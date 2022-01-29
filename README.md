@@ -8,7 +8,7 @@
 ![Banner3](banner3.png)         
 
 
-This website was created as a practice for me to enhance my CSS knowledge, especially in CSS Grid. My notes for learning CSS Grid is at `/notes` folder, and this website is a practical way to implement CSS Grid. This Renity Tech Solution is like basic business landing page.        
+This website was created as a practice for me to enhance my CSS knowledge, especially in CSS Grid. My notes for learning CSS Grid is at [here](https://github.com/muhduzairmf/css-grid/blob/master/notes/NOTES.md), and this website is a practical way to implement CSS Grid. This Renity Tech Solution is like basic business landing page.        
 
 
 Thanks to the [Brad Traversy](https://github.com/bradtraversy) to guide this tutorial, which is I was followed along the [Grid CSS Responsive Website Layout](https://www.youtube.com/watch?v=M3qBpPw77qo) on his YouTube channel.              
